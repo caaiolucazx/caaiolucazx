@@ -47,7 +47,7 @@ class SobreMim extends Desenvolvedor {
   <a href="#" title="LinkedIn">
   <img src="https://img.shields.io/badge/-Linkedin-0e76a8?style=flat-square&logo=Linkedin&logoColor=white&link=LINK-DO-SEU-LINKEDIN" alt="LinkedIn"/></a>
   <a href="#" title="Instagram">
-  <img src="https://img.shields.io/badge/-Instagram-DF0174?style=flat-square&labelColor=DF0174&logo=instagram&logoColor=white&https://www.instagram.com/caiol.dev/?utm_source=ig_web_button_share_sheet" alt="Instagram"/></a>
+  <img src="https://img.shields.io/badge/-Instagram-DF0174?style=flat-square&labelColor=DF0174&logo=instagram&logoColor=white&https://www.instagram.com/caiol.dev/?utm_source=ig_web_button_share_sheet alt="Instagram"/></a>
 </p>
 
 
