@@ -1,9 +1,9 @@
 ```js
-import Desenvolvedor from "SeuNick";
+import Desenvolvedor from "caaiolucazx";
 
 class SobreMim extends Desenvolvedor {
-  nome = "Seu nome";
-  area = "Sua área";
+  nome = "Caio Lucas Laurindo";
+  area = "Full Stack";
   trabalho = "Onde trabalha";
   local = "Local";
 }
