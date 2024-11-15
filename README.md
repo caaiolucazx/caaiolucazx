@@ -12,8 +12,8 @@ class SobreMim extends Desenvolvedor {
 <h3> 👨🏻‍💻 &nbsp;Sobre mim</h3>
 
 - 🤔 &nbsp; Gosto de relaxar assistindo bons filmes e séries.
-- 🎓 &nbsp; Sou studante de Desenvolvimento Full Stack.
-- 💼 &nbsp; Tô em busca do primeiro estagio na área.
+- 🎓 &nbsp; Sou estudante de Desenvolvimento Full Stack.
+- 💼 &nbsp; Tô em busca do primeiro estágio na área.
 - 🌱 &nbsp; Passo boa parte do meu tempo com minha namorada e assistindo o sport.
 - ✍️ &nbsp; Escrevo hitórias nas horas vagas.
 
