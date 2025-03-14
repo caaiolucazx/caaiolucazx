@@ -7,16 +7,6 @@ class SobreMim extends Desenvolvedor {
   local = "Recife, pernambuco";
 }
 ```
-<h2> Olá, eu sou Caio Lucas Laurindo.</h2>
-
-<h3> 👨🏻‍💻 &nbsp;Sobre mim</h3>
-
-- 🤔 &nbsp; Gosto de relaxar assistindo bons filmes e séries.
-- 🎓 &nbsp; Sou estudante de Desenvolvimento Full Stack.
-- 💼 &nbsp; Tô em busca do primeiro estágio na área.
-- 🌱 &nbsp; Passo boa parte do meu tempo com minha namorada e assistindo o sport.
-- ✍️ &nbsp; Escrevo hitórias nas horas vagas.
-
 <h3> 🛠 &nbsp;Tech Stack</h3>
 
 - 💻 &nbsp;
